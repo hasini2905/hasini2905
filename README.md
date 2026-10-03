@@ -8,14 +8,14 @@
 
 ##🚀About me
 🎓Studying B.E.Computer Science Engineering
-=Interested in technology and programming
--Currently improving my coding skills
+-💡Interested in technology and programming
+-💻Currently improving my coding skills
 -Working towards becoming a skilled software professional
 
 ## Currently learning
--C programming
--Computer science Fundamentals
--Programming Basics
+-💻C programming
+-📚Computer science Fundamentals
+-🧠Programming Basics
 
 ## connect with me 
 GitHub:hasini2905
