@@ -14,8 +14,8 @@
 
 ## Currently learning
 -C programming
-=Computer science Fundamentals
-=Programming Basics
+-Computer science Fundamentals
+-Programming Basics
 
 ## connect with me 
 GitHub:hasini2905
